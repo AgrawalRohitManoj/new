@@ -37,7 +37,7 @@ padding: 1%;
 }
 img{
 text-align: center;
-max-width: 60%;
+max-width: 100%;
 height: auto;
 width: auto;
 }
