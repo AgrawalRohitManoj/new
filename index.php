@@ -220,7 +220,7 @@ $('.blueberry').blueberry();
 <body>
 <div id="container">
 <header class ="main-header">
-<img src="../images/logo.jpg"/>					
+<img src="logo.jpg"/>					
 
 <header>
 					
