@@ -312,8 +312,6 @@ rjagarawal13march@gmail.com</p>
 <ul class="social">
 <li><a href="#"><img src="f.png "/></a></li>
 <li><a href="#"><img src="g.png"/></a></li>
-<li><a href="#"><img src="t.png"/></a></li>
-<li><a href="#"><img src="i.png "/></a></li>
 <li><a href="#"><img src="y.png "/></a></li>
 
 </ul>
