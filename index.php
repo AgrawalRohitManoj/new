@@ -255,18 +255,18 @@ $('.blueberry').blueberry();
 </div>
 <section>
 <img src ="trainer.jpg"/>
-<h1>Best Trainer Arround</h1>
-<p> Here in the gym we have the best trainers staff in the tri- state area as we seek out and recruit talented trainers. wih all the right certificates . came ti today and have a sit down with one of the trainer so we can help you to meet yours goal</p>
+<h1>Special Trainer </h1>
+<p> We provides the best trainers in the business. They are highly experienced and have certificate with them. They provides you step-by step trainingand also give advice about diet.You can also hire personal trainer if you want so... </p>
 </section>
 <section>
 <img src ="location.png"/>
 <h1>Location</h1>
-<p> our location sit near MIT college, opp of Gajanan temple, Rambaugh colony , kothrud, pune </p>
+<p> Near MIT college, opp of Gajanan temple, Rambaugh colony , kothrud, pune </p>
 </section>
 <section>
 <img src ="i2.png"/>
 <h1>Check us out</h1>
-<p> To show how convinient we are in our facilities and their satisfying the need of our clients, we offer a free two week pass so any one interested can first get a feel for our gym and decide whether or not they would like to join. call or visit us today for your free pass</p>
+<p> To show how convinient we are in our facilities and  satisfying the need of our clients, we offer a free two week pass so any one interested can first get a feel for our gym and decide whether you would like to join us or not. call or visit us today for your free pass</p>
 </section>
 <div class ="clear"></div>
 <article>
@@ -289,12 +289,12 @@ $('.blueberry').blueberry();
 <section>
 <h1>Ladies Section</h1>
 <img src="ladies.jpg"/>
-<p>Included in our facilit is a ladies only. section of the gym where women can workout to themselves </p>
+<p>We have separate timing and batches for ladies.We are also providing ledies trainers for women. </p>
 </section>
 <section>
 <h1>The Gym Floor</h1>
 <img src="1.jpg"/>
-<p> Our Gym floor is as specious as they come. enjoy scenic view from the cardio equipment on the third floor </p>
+<p> Our Gym is fulfiled with all the modern equipments. Each equipments is brand new and of good quality. We have seperate floor for seperate section We also provide a steam section to you. </p>
 </section>
 <section>
 <h1> Swimming Pool </h1>
@@ -304,6 +304,7 @@ $('.blueberry').blueberry();
 <footer>
 <section>
 <h3><b>Bodyflex Gym</b></h3>
+<p> Rohit Manojkumar Agrawal...</p>
 <p>Rambaugh colony ,near MIT collage,opp of Gajanan temple,Kothrud,411038<br>
 rjagarawal13march@gmail.com</p>
 </section>
