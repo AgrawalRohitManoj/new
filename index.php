@@ -65,6 +65,7 @@ margin: 20px;
 float: left;
 width: 200px;
 height: 60px;
+position:fixed;
 background: -----------------------------;
 }
 nav{
@@ -162,6 +163,12 @@ position: absolute;
 header{
 position: absolute;
 }
+nav ul li{
+box-sizing: border-box;
+width:100%;
+padding:15px;
+text-align:left
+}
 #menu-icon{
 display: inline-block;
 }
@@ -219,22 +226,20 @@ $('.blueberry').blueberry();
 </head>
 <body>
 <div id="container">
-<header class ="main-header">
-<img src="logo.jpg"/>					
+<header>					
 
-<header>
-					
-	
 <a href="#" id="logo"></a>
-
+<img src="logo.jpg"/>
+</header>
+<header>
 <nav>
 <a href="#> id="menu-icon"></a>
 <ul>
 <li><a href="#" class="current">Home</a></li>
-<li><a href="#" class="current">About us</a></li>
-<li><a href="#" class="current">Classes</a></li>
-<li><a href="#" class="current">Trainer</a></li>
-<li><a href="#" class="current">Contact us</a></li>
+<li><a href="#">About us</a></li>
+<li><a href="#">Classes</a></li>
+<li><a href="#">Trainer</a></li>
+<li><a href="#">Contact us</a></li>
 </ul>
 </nav>
 </header>
@@ -249,52 +254,52 @@ $('.blueberry').blueberry();
 </div>
 </div>
 <section>
-<img src ="../images/trainer.jpg"/>
+<img src ="trainer.jpg"/>
 <h1>Best Trainer Arround</h1>
 <p> Here in the gym we have the best trainers staff in the tri- state area as we seek out and recruit talented trainers. wih all the right certificates . came ti today and have a sit down with one of the trainer so we can help you to meet yours goal</p>
 </section>
 <section>
-<img src ="../images/location.png"/>
+<img src ="location.png"/>
 <h1>Location</h1>
 <p> our location sit near MIT college, opp of Gajanan temple, Rambaugh colony , kothrud, pune </p>
 </section>
 <section>
-<img src ="../images/i2.png"/>
+<img src ="i2.png"/>
 <h1>Check us out</h1>
 <p> To show how convinient we are in our facilities and their satisfying the need of our clients, we offer a free two week pass so any one interested can first get a feel for our gym and decide whether or not they would like to join. call or visit us today for your free pass</p>
 </section>
 <div class ="clear"></div>
 <article>
-<img src="../images/2.jpg"/>
+<img src="2.jpg"/>
 </article>
 <aside>
 <h2> Our Special Class Scedule</h2>
 <ul class ="Combine class scedule">
-<img src="../images/cycl.jpg"/>
+<img src="cycl.jpg"/>
 <li><h3> Studio cycling at 8 AM - 60 min</h3></li>
-<img src="../images/zumba.jpg"/>
+<img src="zumba.jpg"/>
 <li><h3> Zumba class at 9 AM - 60 min</h3></li>
-<img src="../images/abs.jpg"/>
+<img src="abs.jpg"/>
 <li><h3> ABS class at 10 AM - 60 min</h3></li>
-<img src="../images/yoga.jpg"/>
+<img src="yoga.jpg"/>
 <li><h3> Power Yoga class at 11 AM - 60 min</h3></li>
 </ul>
 </aside>
 <div class="clear"></div>
 <section>
 <h1>Ladies Section</h1>
-<img src="../images/ladies.jpg"/>
+<img src="ladies.jpg"/>
 <p>Included in our facilit is a ladies only. section of the gym where women can workout to themselves </p>
 </section>
 <section>
 <h1>The Gym Floor</h1>
-<img src="../images/1.jpg"/>
+<img src="1.jpg"/>
 <p> Our Gym floor is as specious as they come. enjoy scenic view from the cardio equipment on the third floor </p>
 </section>
 <section>
-<h1> Free Weight </h1>
-<img src="../images/3.jpg"/>
-<p> Over free weight section has an extention collection of Dumbbels and olumpics plates.</p>
+<h1> Swimming Pool </h1>
+<img src="swim.jpg"/>
+<p> In our gym their is a one big swimming pool which is free for our gym member.Their is special swimmers that teach you swimming.</p>
 </section>
 <footer>
 <section>
@@ -305,12 +310,17 @@ rjagarawal13march@gmail.com</p>
 <section>
 <h3>Connect with us!</h3>
 <ul class="social">
-<li><a href="#"><img src="../images/f.png "/></a></li>
-<li><a href="#"><img src="../images/g.png"/></a></li>
-<li><a href="#"><img src="../images/t.png"/></a></li>
-<li><a href="#"><img src="../images/i.png "/></a></li>
-<li><a href="#"><img src="../images/y.png "/></a></li>
+<li><a href="#"><img src="f.png "/></a></li>
+<li><a href="#"><img src="g.png"/></a></li>
+<li><a href="#"><img src="t.png"/></a></li>
+<li><a href="#"><img src="i.png "/></a></li>
+<li><a href="#"><img src="y.png "/></a></li>
 
+</ul>
+</section>
+<section>
+<ul class="logo">
+<li><a href="#"><img src="9.jpg "/></a></li>
 </ul>
 </section>
 </body>
