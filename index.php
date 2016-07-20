@@ -246,7 +246,7 @@ $('.blueberry').blueberry();
 <div id="content">
 <div class="blueberry">
 <ul class="slides">
-<li><img src="20.jpg"></li>
+<li><img src="20.jpg"/></li>
 <li><img src="10.jpg"/></li>
 <li><img src="11.jpg"/></li>
 </ul>
